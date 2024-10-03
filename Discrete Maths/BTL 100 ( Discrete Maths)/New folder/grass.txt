@@ -1,0 +1,21065 @@
+M 0 -300
+C 0 125 0
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+F 3
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+F 3
+L 25
+S
+S
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+R 25
+F 3
+F 3
+S
+R 25
+F 3
+F 3
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25
+P
+L 25
+F 3
+L 25
+S
+S
+P
+R 25
+P
+R 25
+F 3
+S
+R 25
+F 3
+P
+L 25

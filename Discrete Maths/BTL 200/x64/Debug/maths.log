@@ -1,0 +1,5 @@
+﻿  a2.cpp
+  stopwatch.cpp
+C:\Users\kabir\OneDrive\Desktop\maths\stopwatch.cpp(70,20): warning C4244: 'initializing': conversion from 'double' to 'clock_t', possible loss of data
+  Generating Code...
+  maths.vcxproj -> C:\Users\kabir\OneDrive\Desktop\maths\x64\Debug\maths.exe
