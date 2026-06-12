@@ -1,7 +1,8 @@
-# Discrete Math Cheatsheet
+# Discrete Mathematics Reference
 
-## Overview
-This README provides a comprehensive cheatsheet for discrete mathematics, including definitions, symbols, formulas, logical equivalences, set theory, probability, functions, and graph theory. It is designed for students and professionals seeking a quick reference for mathematical concepts and proof techniques.
+Cheatsheet I built while studying discrete math at Seneca — logic, sets, probability, proofs, and graph theory. Handy for quick review before exams.
+
+**Author:** [Kabir Narula](https://github.com/Kabir-Narula) · Software Development @ Seneca
 
 ---
 
